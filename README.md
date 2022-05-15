@@ -1,2 +1,3 @@
 # Web-Page
-A simple web page created using HTML, CSS and JAVASCRIPT
+A simple food web page created using HTML, CSS and JAVASCRIPT
+
